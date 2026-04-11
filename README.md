@@ -1,92 +1,65 @@
 # 👋 Hi, I'm Alessandro Corgiolu  
-### Embedded Systems • Robotics • Automation • Energy Management
+### Embedded Systems • Robotics • Real-Time Control
 
-I'm an engineer specialized in **embedded systems**, **robotics**, **industrial automation** and **energy monitoring**.  
-I build complete solutions that combine **electronics, firmware, mechanical design, sensor fusion, and mobile apps**.
+🚀 **Engineering real-time robotics systems for VR and distributed control**
+
+I design and build complete systems combining **electronics, firmware, robotics, and software**, from low-level embedded control to high-level applications.
+
+---
+
+## ⚡ Featured Project
+
+### 🤖 JONNY5 – VR Teleoperation Robotic Platform
+- Real-time control loop (1 kHz) on STM32  
+- SPI high-speed dataplane + UART control  
+- Raspberry Pi backend with WebSocket + WebXR  
+- VR control with Meta Quest (low-latency streaming)  
+- Forward/Inverse kinematics (POE-based)  
+- Distributed architecture (embedded + edge computing)
 
 ---
 
 ## 🚀 What I Do
 
-- ⚙️ **Embedded firmware development** (STM32, ESP32, Arduino, Zephyr, Modbus RS232/RTU)
-- 🤖 **Robotics & Mechatronics** (6DOF robot arm with analytic IK, quintic trajectory planning)
-- 📡 **Sensors & IoT** (radar, ultrasound, ToF, ADC, DS18B20, MAX3232, ADS1115)
-- 🔧 **Rapid prototyping** (PCB design, 3D printing, PETG optimization)
-- 📊 **Energy systems monitoring** (reverse-engineering of inverter protocols, dashboards, serial decoders)
-- 📱 **Android development** (Jetpack Compose, Bluetooth Classic/WiFi apps for robotics & IoT)
-- 🔬 **R&D Projects** (proof-of-concept, prototypes, hardware testing, firmware optimization)
+- ⚙️ Embedded firmware (STM32, ESP32, Zephyr, RTOS, Modbus)
+- 🤖 Robotics (IK/FK, trajectory planning, 6DOF systems)
+- 📡 Sensors & IoT (ultrasound, ToF, ADC, IMU, serial protocols)
+- 🔧 Rapid prototyping (PCB, 3D printing, mechanical design)
+- 📊 Energy systems & reverse engineering (inverter protocols, RS232)
+- 📱 Android apps (Jetpack Compose, Bluetooth/WiFi control)
+- 🔬 R&D prototyping (end-to-end system development)
 
 ---
 
-## 🛠️ Projects (Highlights)
+## 🛠️ Selected Projects
 
-### 🤖 **Rubabot – 6DOF Robotic Arm**
-- Analytic **Forward/Inverse Kinematics** (D-H parameters)  
-- 7 reference frames, wrist orientation (Roll/Pitch/Yaw)  
-- Quintic polynomial trajectory generation  
-- Dual-motor shoulder, soft-start, STOP interrupt  
-- Workspace mapping, automatic sequences  
-
-➡️ *(Repo coming soon)*
-
----
-
-### 📡 **ESP32 Radar – Real-Time Scanning & Tracking**
-- HC-SR04 ultrasonic + MG996R servo  
-- Bluetooth Classic data streaming  
-- Mode **NORMAL** + **TRACKING** with velocity estimation  
-- Android Jetpack Compose app with real-time radar graphics  
-- Commands: `VELOCITA:<valore>`, `POSIZIONA:<angolo>`, `STOP`, `START`, `TRACK`, `NORMAL`
-
-➡️ *(Repo coming soon)*
-
----
-
-### 🔌 **Inverter ISOLAR SMG-II – RS232 Protocol Decoder**
-- Reverse engineering of raw ASCII PI18 protocol  
-- Modbus RTU over MAX3232 (19200 baud)  
-- Python decoder + REST API dashboard (Flask)  
-- Logging of voltage, current, power, frequency  
-- 24h charting, auto-parsing, error handling  
-
-➡️ *(Repo coming soon)*
-
----
-
-### ❄️ **FreshBelt – 10-Cell Peltier Cooling System**
-- ESP32 control of 10 TEC modules  
-- Automatic PWM with tunable Kp  
-- 10x DS18B20 real-time monitoring  
-- Android app with sliders + data panels  
-- Full thermal control loop  
-
-➡️ *(Repo coming soon)*
+- 🤖 6DOF Robotic Arm (analytic IK + quintic trajectories)  
+- 📡 ESP32 Radar with real-time tracking + Android app  
+- 🔌 Inverter protocol decoder (RS232 + dashboard)  
+- ❄️ Multi-cell Peltier thermal control system  
 
 ---
 
 ## 🧰 Tech Stack
 
 **Embedded:**  
-`STM32` · `ESP32` · `Zephyr` · `Arduino C++` · `FreeRTOS` · `Modbus RTU` · `PWM/Timers` · `ADC/DAC`  
+STM32 · ESP32 · Zephyr · Arduino · FreeRTOS · SPI · UART · PWM · Modbus  
 
 **Robotics:**  
-`Forward/Inverse Kinematics` · `DH parameters` · `Trajectory Planning` · `6DOF Arms`  
+Kinematics · Trajectory Planning · Real-Time Control  
 
-**Software & Apps:**  
-`Python` · `Flask` · `SQLite` · `Jetpack Compose` · `Bluetooth Classic`  
+**Software:**  
+Python · Flask · Jetpack Compose · WebSockets  
 
 **Hardware:**  
-`PCB Design` · `3D Printing` · `PETG` · `SolidWorks/Fusion`  
+PCB Design · 3D Printing · Mechanical Integration  
 
 ---
 
 ## 📬 Contact
 
-📧 **corgiolu.labs@gmail.com**  
-🌐 More coming soon…
-
-If you are looking for an engineer for **embedded systems**, **robotics**, **IoT prototypes**, or **energy monitoring**, feel free to reach out.
+📧 corgiolu.labs@gmail.com  
 
 ---
 
-### ⭐ “Building real, working prototypes — from firmware to mechanics.”  
+⭐ *Building real systems — from firmware to full robotic platforms*
