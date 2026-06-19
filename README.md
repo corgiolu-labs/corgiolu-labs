@@ -35,6 +35,7 @@ Today I'm a **System Engineer at Leonardo S.p.A.** (Defence & Security), where I
 - 🛠️ **[pcb-design-journey](https://github.com/corgiolu-labs/pcb-design-journey)** — 20 years of PCB design: home photo-etching & PAD2PAD → KiCad → professional CADSTAR
 - 🔬 **[ded-powder-flow-sensor](https://github.com/corgiolu-labs/ded-powder-flow-sensor)** — in-situ powder-flow sensor for metal DED additive manufacturing (Joanneum Research)
 - 📻 **[pic-pll-fm-synth](https://github.com/corgiolu-labs/pic-pll-fm-synth)** — bare-metal **PIC assembly** firmware: a TSA5511 **PLL synthesizer** for an FM exciter (bit-banged I²C, divider math, LCD/keypad/EEPROM)
+- 🔧 **[electronics-bench](https://github.com/corgiolu-labs/electronics-bench)** — Arduino signal/frequency instrumentation (generator, meter, photodiode FFT) + circuit simulation (MicroCap SPICE)
 - ❄️ **Black-body thermal reference unit** — closed-loop **PID + Peltier** calibration source (industrial R&D)
 
 ---
@@ -79,6 +80,7 @@ Every capability below is backed by a public repo — not just a buzzword list.
 | CAD · FEA/FEM · additive manufacturing | [cad-fea-additive](https://github.com/corgiolu-labs/cad-fea-additive) |
 | PCB design · KiCad · CADSTAR | [pcb-design-journey](https://github.com/corgiolu-labs/pcb-design-journey) |
 | Industrial monitoring · Modbus | [raspinverter](https://github.com/corgiolu-labs/raspinverter) |
+| Arduino prototyping · circuit simulation (SPICE) | [electronics-bench](https://github.com/corgiolu-labs/electronics-bench) |
 
 ---
 
