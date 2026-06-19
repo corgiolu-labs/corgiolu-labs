@@ -34,6 +34,7 @@ Today I'm a **System Engineer at Leonardo S.p.A.** (Defence & Security), where I
 - 📐 **[cad-fea-additive](https://github.com/corgiolu-labs/cad-fea-additive)** — mechanical CAD, FEA/FEM stress analysis and additive manufacturing (R&D)
 - 🛠️ **[pcb-design-journey](https://github.com/corgiolu-labs/pcb-design-journey)** — 20 years of PCB design: home photo-etching & PAD2PAD → KiCad → professional CADSTAR
 - 🔬 **[ded-powder-flow-sensor](https://github.com/corgiolu-labs/ded-powder-flow-sensor)** — in-situ powder-flow sensor for metal DED additive manufacturing (Joanneum Research)
+- 📻 **[pic-pll-fm-synth](https://github.com/corgiolu-labs/pic-pll-fm-synth)** — bare-metal **PIC assembly** firmware: a TSA5511 **PLL synthesizer** for an FM exciter (bit-banged I²C, divider math, LCD/keypad/EEPROM)
 - ❄️ **Black-body thermal reference unit** — closed-loop **PID + Peltier** calibration source (industrial R&D)
 
 ---
@@ -70,6 +71,7 @@ Every capability below is backed by a public repo — not just a buzzword list.
 | Real-time embedded · 1 kHz control | [jonny5](https://github.com/corgiolu-labs/jonny5) · [jonny5_ROS2_VR](https://github.com/corgiolu-labs/jonny5_ROS2_VR) |
 | Embedded C / firmware · **unit tests + CI** | [jonny5](https://github.com/corgiolu-labs/jonny5) (host unit tests + GitHub Actions) · [uav-lora-transponder](https://github.com/corgiolu-labs/uav-lora-transponder) |
 | STM32 · Cortex-M · Zephyr RTOS | [jonny5](https://github.com/corgiolu-labs/jonny5) |
+| **Assembly · bare-metal (8-bit PIC)** · PLL frequency synthesis | [pic-pll-fm-synth](https://github.com/corgiolu-labs/pic-pll-fm-synth) |
 | ROS 2 | [jonny5_ROS2_VR](https://github.com/corgiolu-labs/jonny5_ROS2_VR) |
 | Sensors · IMU · sensor fusion | [jonny5](https://github.com/corgiolu-labs/jonny5) · [ded-powder-flow-sensor](https://github.com/corgiolu-labs/ded-powder-flow-sensor) · [esp32-radar-tracking](https://github.com/corgiolu-labs/esp32-radar-tracking) |
 | RF / wireless · LoRa · BLE | [uav-lora-transponder](https://github.com/corgiolu-labs/uav-lora-transponder) · [esp32-radar-tracking](https://github.com/corgiolu-labs/esp32-radar-tracking) |
