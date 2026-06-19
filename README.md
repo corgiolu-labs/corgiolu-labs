@@ -30,6 +30,10 @@ Today I'm a **System Engineer at Leonardo S.p.A.** (Defence & Security), where I
 - 📡 **[uav-lora-transponder](https://github.com/corgiolu-labs/uav-lora-transponder)** — 868 MHz LoRa transponder for civil-drone safety (BSc thesis): interrogation–response link, GPS position reporting, radar visualizer
 - 🔌 **[raspinverter](https://github.com/corgiolu-labs/raspinverter)** — solar-inverter monitoring: Modbus RTU + serial-protocol reverse engineering, SQLite logging, Flask/PWA dashboard
 - 📡 **[esp32-radar-tracking](https://github.com/corgiolu-labs/esp32-radar-tracking)** — real-time ultrasonic radar with Bluetooth streaming + Android app
+- ⚙️ **[industrial-automation-plc](https://github.com/corgiolu-labs/industrial-automation-plc)** — Siemens / Beckhoff PLC, HMI, IEC 61131-3 Structured Text + control architecture
+- 📐 **[cad-fea-additive](https://github.com/corgiolu-labs/cad-fea-additive)** — mechanical CAD, FEA/FEM stress analysis and additive manufacturing (R&D)
+- 🛠️ **[pcb-design-journey](https://github.com/corgiolu-labs/pcb-design-journey)** — 20 years of PCB design: home photo-etching & PAD2PAD → KiCad → professional CADSTAR
+- 🔬 **[ded-powder-flow-sensor](https://github.com/corgiolu-labs/ded-powder-flow-sensor)** — in-situ powder-flow sensor for metal DED additive manufacturing (Joanneum Research)
 - ❄️ **Black-body thermal reference unit** — closed-loop **PID + Peltier** calibration source (industrial R&D)
 
 ---
@@ -54,6 +58,25 @@ For 15+ years my signature hobby has also been my engineering edge: I **reverse-
 **Industrial & mechanical:** PLC Siemens (STEP7 · TIA Portal) · HMI · CAD/CAM (Inventor · Fusion 360 · AutoCAD · Alphacam) · additive manufacturing (PBF / DED)
 
 **Software:** Python · Flask · SQLite · Jetpack Compose · WebSockets
+
+---
+
+## 🔗 Skills → where to prove them
+
+Every capability below is backed by a public repo — not just a buzzword list.
+
+| Capability | Where to see it |
+|---|---|
+| Real-time embedded · 1 kHz control | [jonny5](https://github.com/corgiolu-labs/jonny5) · [jonny5_ROS2_VR](https://github.com/corgiolu-labs/jonny5_ROS2_VR) |
+| Embedded C / firmware · **unit tests + CI** | [jonny5](https://github.com/corgiolu-labs/jonny5) (host unit tests + GitHub Actions) · [uav-lora-transponder](https://github.com/corgiolu-labs/uav-lora-transponder) |
+| STM32 · Cortex-M · Zephyr RTOS | [jonny5](https://github.com/corgiolu-labs/jonny5) |
+| ROS 2 | [jonny5_ROS2_VR](https://github.com/corgiolu-labs/jonny5_ROS2_VR) |
+| Sensors · IMU · sensor fusion | [jonny5](https://github.com/corgiolu-labs/jonny5) · [ded-powder-flow-sensor](https://github.com/corgiolu-labs/ded-powder-flow-sensor) · [esp32-radar-tracking](https://github.com/corgiolu-labs/esp32-radar-tracking) |
+| RF / wireless · LoRa · BLE | [uav-lora-transponder](https://github.com/corgiolu-labs/uav-lora-transponder) · [esp32-radar-tracking](https://github.com/corgiolu-labs/esp32-radar-tracking) |
+| PLC · industrial automation (Siemens · Beckhoff) | [industrial-automation-plc](https://github.com/corgiolu-labs/industrial-automation-plc) |
+| CAD · FEA/FEM · additive manufacturing | [cad-fea-additive](https://github.com/corgiolu-labs/cad-fea-additive) |
+| PCB design · KiCad · CADSTAR | [pcb-design-journey](https://github.com/corgiolu-labs/pcb-design-journey) |
+| Industrial monitoring · Modbus | [raspinverter](https://github.com/corgiolu-labs/raspinverter) |
 
 ---
 
