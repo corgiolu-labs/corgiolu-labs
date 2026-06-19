@@ -20,7 +20,7 @@ Today I'm a **System Engineer at Leonardo S.p.A.** (Defence & Security), where I
 - 1 kHz hard real-time control loop on **STM32 / Zephyr RTOS**
 - **WebXR + WebRTC** low-latency teleoperation (~38 ms glass-to-glass video)
 - Raspberry Pi 5 control plane · analytic forward/inverse kinematics
-- ROS 2 bridge layer · URDF model · distributed embedded + edge architecture
+- experimental ROS 2 migration layer (AI-assisted) · URDF model · distributed embedded architecture
 
 *(MSc thesis — discussion July 2026)*
 
@@ -49,7 +49,7 @@ For 15+ years my signature hobby has also been my engineering edge: I **reverse-
 
 **Embedded:** STM32 · ESP32 · Zephyr · FreeRTOS · bare-metal C · SPI · UART · I²C · Modbus · PWM
 
-**Real-time & robotics:** 1 kHz control loops · ROS 2 · forward/inverse kinematics · trajectory planning · teleoperation · WebXR/WebRTC
+**Real-time & robotics:** 1 kHz control loops · forward/inverse kinematics · trajectory planning · teleoperation · WebXR/WebRTC
 
 **Electronics:** PCB design (KiCad · CADSTAR) · SMD · reverse engineering · fabrication · bring-up & repair
 
@@ -69,11 +69,11 @@ Every capability below is backed by a public repo — not just a buzzword list.
 
 | Capability | Where to see it |
 |---|---|
-| Real-time embedded · 1 kHz control | [jonny5](https://github.com/corgiolu-labs/jonny5) · [jonny5_ROS2_VR](https://github.com/corgiolu-labs/jonny5_ROS2_VR) |
+| Real-time embedded · 1 kHz control | [jonny5](https://github.com/corgiolu-labs/jonny5) |
 | Embedded C / firmware · **unit tests + CI** | [jonny5](https://github.com/corgiolu-labs/jonny5) (host unit tests + GitHub Actions) · [uav-lora-transponder](https://github.com/corgiolu-labs/uav-lora-transponder) |
 | STM32 · Cortex-M · Zephyr RTOS | [jonny5](https://github.com/corgiolu-labs/jonny5) |
 | **Assembly · bare-metal (8-bit PIC)** · PLL frequency synthesis | [pic-pll-fm-synth](https://github.com/corgiolu-labs/pic-pll-fm-synth) |
-| ROS 2 | [jonny5_ROS2_VR](https://github.com/corgiolu-labs/jonny5_ROS2_VR) |
+| Robotics integration · kinematics · teleoperation | [jonny5](https://github.com/corgiolu-labs/jonny5) |
 | Sensors · IMU · sensor fusion | [jonny5](https://github.com/corgiolu-labs/jonny5) · [ded-powder-flow-sensor](https://github.com/corgiolu-labs/ded-powder-flow-sensor) · [esp32-radar-tracking](https://github.com/corgiolu-labs/esp32-radar-tracking) |
 | RF / wireless · LoRa · BLE | [uav-lora-transponder](https://github.com/corgiolu-labs/uav-lora-transponder) · [esp32-radar-tracking](https://github.com/corgiolu-labs/esp32-radar-tracking) |
 | PLC · industrial automation (Siemens · Beckhoff) | [industrial-automation-plc](https://github.com/corgiolu-labs/industrial-automation-plc) |
