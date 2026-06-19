@@ -18,7 +18,7 @@ Today I'm a **System Engineer at Leonardo S.p.A.** (Defence & Security), where I
 ## ⚡ Featured Project — 🤖 JONNY5
 **VR-teleoperated 6-DoF robotic arm** — [`jonny5`](https://github.com/corgiolu-labs/jonny5) · [`jonny5_ROS2_VR`](https://github.com/corgiolu-labs/jonny5_ROS2_VR)
 - 1 kHz hard real-time control loop on **STM32 / Zephyr RTOS**
-- **WebXR + WebRTC** low-latency teleoperation (~38 ms glass-to-glass video)
+- **WebXR + WebRTC** low-latency video teleoperation (38–65 ms glass-to-glass, depending on configuration)
 - Raspberry Pi 5 control plane · analytic forward/inverse kinematics
 - experimental ROS 2 migration layer (AI-assisted) · URDF model · distributed embedded architecture
 
