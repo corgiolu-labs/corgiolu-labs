@@ -95,6 +95,6 @@ I integrate AI agents as a **structural part of my engineering process** — a f
 ---
 
 ## 📬 Contact
-📧 **corgiolu.labs@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-corgiolu-667454387)
+📧 **corgiolu.labs@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-corgiolu)
 
 ⭐ *Building real systems — from the copper trace to the full robotic platform.*
